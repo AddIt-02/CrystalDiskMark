@@ -1,2 +1,7 @@
-# CrystalDiskMark
-Here is a portable version of CrystalDiskMark (version: 8.0.5, x64 bit)
+Links:
+Official website of FurMark(if you want download other versions): https://crystalmark.info/en/software/
+
+Youtube of the repository author: https://www.youtube.com/@AddIt-02
+
+Instrruction:
+To launch the app, open a folder with all files you downloaded and start "DiskMark64.exe"
