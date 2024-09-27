@@ -1,5 +1,5 @@
 Links:
-Official website of FurMark(if you want download other versions): https://crystalmark.info/en/software/
+Official website of CrystalDiskMark (if you want download other versions): https://crystalmark.info/en/software/
 
 Youtube of the repository author: https://www.youtube.com/@AddIt-02
 
